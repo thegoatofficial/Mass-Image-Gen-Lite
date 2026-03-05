@@ -1,10 +1,11 @@
 # Mass Image Gen Lite
 
-Bulk image generator using Google's Imagen models via the AI Studio API. Define your prompts in a JSON file, pick a model, and generate images in batch.
+Bulk image generator using Google's AI models via the AI Studio API. Supports both **Gemini native image generation** (Nano Banana 2) and **Imagen** dedicated image models. Define your prompts in a JSON file, pick a model, and generate images in batch.
 
 ## Features
 
-- **Dynamic model selection** — fetches available Imagen models directly from Google AI Studio so you always have the latest options
+- **Gemini + Imagen support** — choose between Gemini's native image generation or dedicated Imagen models
+- **Dynamic model selection** — fetches available models directly from Google AI Studio so you always have the latest options
 - **Batch generation** — generate images for multiple prompts in one run
 - **Multiple variants** — generate 1-4 image variants per prompt
 - **Auto-retry** — failed API calls retry up to 3 times with backoff
@@ -44,13 +45,15 @@ Replace `your_api_key_here` with your actual key. This file is gitignored and wi
 Edit `prompts.json` with your image prompts:
 
 ```json
-{
-  "Person Name": "A detailed description of the image you want...",
-  "Another Name": "Another detailed prompt..."
-}
+[
+  {
+    "id": "example",
+    "name": "Example Image",
+    "filename": "example.png",
+    "prompt": "A detailed description of the image you want..."
+  }
+]
 ```
-
-The key is used as the output filename and the value is the prompt sent to the model.
 
 ## Usage
 
@@ -60,12 +63,21 @@ python generate.py
 
 The tool will walk you through:
 
-1. **Model selection** — pick from available Imagen models
+1. **Model selection** — pick from available Gemini or Imagen models
 2. **Images per prompt** — choose how many variants (1-4) to generate per prompt
 3. **Confirmation** — review the run summary before starting
 4. **Generation** — sit back while it generates all your images
 
 Output is saved to `generated_images/<timestamp>/` in the project directory.
+
+## Gemini vs Imagen
+
+| | Gemini (native) | Imagen |
+|---|---|---|
+| API method | `generate_content` | `generate_images` |
+| Image quality | High, prompt-following | High, photorealistic |
+| Batch per call | 1 image | 1-4 images |
+| Text in images | Supported | Limited |
 
 ## Project Structure
 

@@ -1,10 +1,128 @@
-{
-  "Alex R": "Candid natural photograph of a man in his late 20s with light stubble and slightly tousled brown hair, wearing a plain charcoal crew neck t-shirt. He has a relaxed expression with a slight natural smile, looking slightly off-camera. Shot in a bright co-working space with large windows, natural daylight streaming in from the left. Blurred desks and a monstera plant in the background. Shot on a 50mm lens at f/2.0 with natural available light. Natural skin texture, not airbrushed. Casual and unstaged feel.",
-  "Sarah M": "Natural photograph of a woman in her mid 35s with shoulder-length brown hair and warm hazel eyes, wearing a fitted navy blazer over a simple white top. She has a genuine smile, caught mid-conversation. Shot outdoors on a city sidewalk with a blurred cafe storefront and warm string lights in the background. Late afternoon golden hour light from the side. Shot on a 35mm lens at f/1.8 with shallow depth of field. Natural skin with light freckles. Feels like a natural moment, not posed.",
-  "Daniel K": "Natural photo of a man in his early 40s with short dark hair and glasses, wearing a dark grey quarter-zip pullover over a collared shirt. He has a calm, composed expression with a slight half-smile. Shot in a server room or IT office with blurred rack servers and cable management in the background, overhead fluorescent lighting mixed with blue LED indicator lights. Shot on a 50mm lens at f/2.0. Natural skin texture, not airbrushed. Looks like an internal company headshot.",
-  "Priya K": "Natural candid photograph of a South Asian woman in her early 30s with long straight dark brown hair past her shoulders, wearing a structured emerald green blouse. Confident warm smile, looking directly at camera while seated at a table. Shot in a modern cafe with exposed brick wall behind her, slightly blurred. Warm indoor ambient light mixed with window light from the right. Coffee cup partially visible at edge of frame. Shot on a 50mm lens at f/1.8. Natural skin texture, not airbrushed. Feels like a profile photo taken during a casual meeting.",
-  "Rachel T": "Natural warm photograph of a woman in her late 20s with dark hair pulled back in a low bun, wearing a white blouse with a subtle pattern. She has a composed, professional expression with a slight warm smile. Shot in a law office with blurred legal bookshelves and stacked folders in the background. Soft natural window light from one side creating gentle shadows. Shot on an 85mm lens at f/2.0. Natural skin texture, not airbrushed. Feels like a LinkedIn photo taken by a colleague.",
-  "Tom H": "Natural photograph of a man in his mid 35s with short brown hair and a neatly trimmed light beard, wearing a pale blue collared button-down shirt. Calm, composed expression with a slight smile, standing near a window. Shot in a minimalist home office with clean white walls and a blurred potted plant in the background. Soft overcast daylight through a large window. Shot on a 50mm lens at f/2.0. Natural skin texture with visible beard detail, not airbrushed. Clean and understated.",
-  "Marcus W": "Natural candid photograph of a Black man in his late 30s with a clean short fade haircut, wearing a dark navy polo shirt. Confident easygoing expression with a natural half-smile, caught in a genuine moment. Shot outdoors in a park with soft blurred trees and foliage in the background. Bright open shade lighting that renders dark skin tones with natural highlights and dimension. Shot on a 50mm lens at f/1.8 with creamy bokeh. Natural skin texture, not airbrushed. Relaxed and authentic.",
-  "Jess L": "Natural bright photograph of a young woman in her early 20s with wavy light brown hair and glasses, wearing an oversized cream knit sweater. She has a bright genuine smile, looking relaxed and approachable. Shot on a university campus with blurred red brick buildings and bare winter trees in the background. Bright overcast daylight creating soft even lighting. Shot on a 35mm lens at f/2.0 giving a slightly wider environmental feel. Natural skin texture, not airbrushed. Feels like a candid photo a classmate took between lectures."
-}
+[
+  {
+    "id": "james_whitfield",
+    "name": "James Whitfield",
+    "filename": "james_whitfield.png",
+    "prompt": "Photorealistic headshot of a British man in his early 40s with short brown hair and light stubble, approachable expression with a slight closed-mouth smile, wearing a navy quarter-zip pullover over a collared shirt. Shot in a modern London office with floor-to-ceiling windows softly blurred in the background. Overcast natural window light from the left, soft and even with no harsh shadows. Shot on a Sony A7IV with an 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes. Natural skin texture with visible pores, realistic catchlights in eyes. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "lena_bruckner",
+    "name": "Lena Brückner",
+    "filename": "lena_bruckner.png",
+    "prompt": "Photorealistic headshot of a German woman in her mid-30s with shoulder-length dark blonde hair tucked behind one ear, wearing minimal makeup, warm and confident expression. Dressed in a structured charcoal blazer over a white crew-neck top. Setting is a bright minimalist architecture studio with white walls and a drafting table softly blurred behind her. Cool natural daylight from a large window, soft fill light, clean Scandinavian aesthetic. Shot on a Canon R5 with an 85mm f/1.2 lens, shallow depth of field, crisp focus on eyes. Natural skin texture, no airbrushing, subtle freckles. 4K resolution, 1:1 square crop. No text, no watermark, no extra limbs."
+  },
+  {
+    "id": "camille_dupont",
+    "name": "Camille Dupont",
+    "filename": "camille_dupont.png",
+    "prompt": "Photorealistic headshot of a French woman in her late 20s with dark brown hair in a loose low bun, a few strands framing her face, understated elegant look with minimal jewellery. Wearing a cream silk blouse with a soft collar. Background is a warmly lit Parisian-style legal office with dark wood bookshelves filled with law books, softly out of focus. Warm ambient interior lighting with soft golden tones from a desk lamp off-frame. Shot on a Nikon Z8 with an 85mm f/1.4 lens, shallow depth of field, sharp focus on face. Natural skin texture, realistic under-eye detail, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "diego_herrera",
+    "name": "Diego Herrera",
+    "filename": "diego_herrera.png",
+    "prompt": "Photorealistic headshot of an Argentine man in his mid-30s with dark wavy hair swept back casually, neatly trimmed short beard, friendly open expression. Wearing a light blue Oxford button-down shirt with the top button undone, no tie. Background is a bright Buenos Aires apartment home office with exposed brick and a plant, softly blurred. Warm late-morning natural sunlight streaming in from a side window, golden fill. Shot on a Sony A7III with an 85mm f/1.4 lens, shallow depth of field, eyes in sharp focus. Natural olive skin texture with visible pores, authentic warm skin tones. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "rafaela_mendes",
+    "name": "Rafaela Mendes",
+    "filename": "rafaela_mendes.png",
+    "prompt": "Photorealistic headshot of a Brazilian woman in her early 30s with long dark curly hair, warm brown skin, bright genuine smile showing teeth. Wearing a rust-orange linen blouse. Background is a vibrant modern São Paulo co-working space with tropical plants and colourful furniture, softly out of focus. Bright natural daylight mixed with warm interior lighting, energetic and lively mood. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens, beautiful bokeh, sharp focus on face. Natural skin texture and glow, no airbrushing, realistic hair detail. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "siyuan_wang",
+    "name": "Siyuan Wang",
+    "filename": "siyuan_wang.png",
+    "prompt": "Photorealistic headshot of a Chinese man in his early 30s with short neat black hair and clean-shaven face, calm and competent expression with a slight smile. Wearing a dark grey crewneck tech sweater. Background is a sleek modern Shenzhen tech office with LED strip lighting and glass partitions, softly blurred. Cool white office lighting with a subtle blue tone from monitors off-frame, modern and clean. Shot on a Sony A7IV with an 85mm f/1.4 lens, shallow depth of field, crisp eye focus. Natural East Asian skin texture, realistic detail, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "misaki_tanaka",
+    "name": "Misaki Tanaka",
+    "filename": "misaki_tanaka.png",
+    "prompt": "Photorealistic headshot of a Japanese woman in her mid-20s with black hair in a casual shoulder-length bob with side-swept bangs, youthful and studious look, gentle natural smile. Wearing an oversized beige knit cardigan over a white t-shirt. Background is a Tokyo university architecture studio with models and drawings pinned to corkboards, softly out of focus. Soft diffused fluorescent and natural window light mixing, slightly warm tone. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens, shallow depth of field, eyes in sharp focus. Natural skin texture, no makeup look, realistic and candid feel. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "junhyeok_park",
+    "name": "Junhyeok Park",
+    "filename": "junhyeok_park.png",
+    "prompt": "Photorealistic headshot of a Korean man in his late 20s with slightly longer textured black hair styled loosely to one side, creative and relaxed expression. Wearing a black turtleneck. Background is a stylish Seoul design studio with an iMac and mood boards on the wall, softly blurred with warm accent lighting. Soft directional window light from the left with warm tungsten fill from a desk lamp, moody and creative atmosphere. Shot on a Leica Q2 with a 28mm lens stopped to f/2.8, natural perspective, sharp focus on face. Natural Korean skin texture, subtle under-eye detail, no airbrushing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "sophie_harding",
+    "name": "Sophie Harding",
+    "filename": "sophie_harding.png",
+    "prompt": "Photorealistic headshot of a British woman in her mid-30s with auburn hair pulled back in a neat low ponytail, a few loose strands around her face, warm professional smile. Wearing a fitted burgundy blazer over a white camisole top. Background is a bright high-street estate agency office with property listing boards softly blurred behind her. Soft overcast English daylight from a shopfront window, even and flattering. Shot on a Canon R5 with an 85mm f/1.2 lens, shallow depth of field, sharp focus on eyes. Natural fair skin texture with light freckles across the nose, no airbrushing, realistic catchlights. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "mark_ellison",
+    "name": "Mark Ellison",
+    "filename": "mark_ellison.png",
+    "prompt": "Photorealistic headshot of a British man in his late 30s with short sandy brown hair and a trimmed beard, weathered but friendly face, practical no-nonsense expression with a slight smile. Wearing a navy fleece jacket over a checked flannel shirt, slightly rugged look. Background is a construction site office portacabin with blueprints and a hard hat on the desk, softly out of focus. Cool flat daylight coming through a small window mixed with harsh fluorescent overhead, realistic industrial setting. Shot on a Sony A7III with an 85mm f/1.4 lens, shallow depth of field, crisp focus on face. Natural ruddy skin texture, visible stubble grain, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "priya_kaur",
+    "name": "Priya Kaur",
+    "filename": "priya_kaur.png",
+    "prompt": "Photorealistic headshot of a British Indian woman in her early 40s with long dark hair left down with a centre part, warm brown eyes, kind and intelligent expression with a gentle closed-mouth smile. Wearing a deep teal wrap blouse and small gold stud earrings. Background is a university lecture hall with tiered wooden seating and a whiteboard, softly blurred. Warm interior lighting mixed with grey Scottish daylight from high windows, naturalistic and academic. Shot on a Nikon Z8 with an 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes. Natural brown skin texture with realistic detail, no airbrushing, subtle laugh lines around eyes. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "thomas_engel",
+    "name": "Thomas Engel",
+    "filename": "thomas_engel.png",
+    "prompt": "Photorealistic headshot of a German man in his late 40s with short greying dark hair neatly parted to one side, clean-shaven, composed and reliable expression with a polite half-smile. Wearing a light grey suit jacket over a pale blue dress shirt, no tie, top button open. Background is a traditional German accounting office with dark wooden filing cabinets and neatly stacked folders, softly out of focus. Cool northern European daylight from a tall window, clean and slightly muted tones. Shot on a Sony A7IV with an 85mm f/1.4 lens, shallow depth of field, eyes in sharp focus. Natural mature skin texture with visible fine lines on forehead, realistic and dignified. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "julien_marchand",
+    "name": "Julien Marchand",
+    "filename": "julien_marchand.png",
+    "prompt": "Photorealistic headshot of a French man in his early 30s with medium-length dark brown wavy hair pushed back, light designer stubble, charming and approachable expression with a confident smile. Wearing a fitted navy linen blazer over a white open-collar shirt, French smart-casual style. Background is an elegant Bordeaux stone townhouse interior with tall windows and herringbone parquet flooring, softly blurred. Warm golden afternoon light streaming through shuttered windows, classic French interior warmth. Shot on a Leica Q2 with a 28mm lens at f/2.8, natural perspective, sharp focus on face. Natural Mediterranean skin tone, realistic stubble texture, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "valentina_rojas",
+    "name": "Valentina Rojas",
+    "filename": "valentina_rojas.png",
+    "prompt": "Photorealistic headshot of a Colombian woman in her late 20s with long straight dark brown hair, warm olive skin, creative and expressive look with a relaxed genuine smile. Wearing a black fitted turtleneck and chunky silver hoop earrings. Background is a colourful Bogotá design studio with Pantone swatches pinned to a corkboard and a drawing tablet on the desk, softly out of focus. Bright natural daylight from a large window mixed with warm overhead pendant lighting, vibrant and creative atmosphere. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens, beautiful bokeh, crisp focus on face. Natural Latin American skin texture with realistic warmth, no airbrushing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "lucas_ferreira",
+    "name": "Lucas Ferreira",
+    "filename": "lucas_ferreira.png",
+    "prompt": "Photorealistic headshot of a Brazilian man in his early 30s with short dark curly hair and a neatly trimmed short beard, medium brown skin, steady and dependable expression with a calm slight smile. Wearing a clean grey polo shirt, practical and unfussy. Background is a construction site office with rolled-up blueprints and a laptop on a folding table, hard hats hanging on hooks, softly blurred. Bright harsh Brazilian midday sunlight coming through an open door, warm and high-contrast, realistic field office feel. Shot on a Sony A7III with an 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes. Natural sun-weathered skin texture, realistic pores and stubble shadow, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "yuting_chen",
+    "name": "Yuting Chen",
+    "filename": "yuting_chen.png",
+    "prompt": "Photorealistic headshot of a Chinese woman in her late 20s with straight black hair cut to just above the shoulders with a subtle side part, minimal natural makeup, professional and composed expression with a polite warm smile. Wearing a soft lavender blouse with a neat round collar. Background is a modern Shanghai corporate office with frosted glass partitions and an open-plan desk layout, softly blurred. Clean bright office lighting with cool white tones and a touch of natural daylight from floor-to-ceiling windows. Shot on a Canon R5 with an 85mm f/1.2 lens, shallow depth of field, sharp focus on eyes. Natural East Asian skin texture, realistic and unretouched, subtle natural glow. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "kenta_sato",
+    "name": "Kenta Sato",
+    "filename": "kenta_sato.png",
+    "prompt": "Photorealistic headshot of a Japanese man in his early 30s with short neat black hair and clean-shaven face, earnest and trustworthy expression with a polite professional smile. Wearing a charcoal suit jacket over a crisp white dress shirt with a conservative navy tie, classic Japanese salaryman look. Background is a tidy Japanese real estate office with property floor plans pinned to a board and a small potted plant on the desk, softly out of focus. Even fluorescent office lighting mixed with soft daylight from a frosted window, clean and slightly cool tones typical of a Japanese workplace. Shot on a Nikon Z8 with an 85mm f/1.4 lens, shallow depth of field, crisp focus on face. Natural Japanese skin texture, realistic and unsmoothed, visible natural skin detail. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "sujin_lee",
+    "name": "Sujin Lee",
+    "filename": "sujin_lee.png",
+    "prompt": "Photorealistic headshot of a Korean woman in her mid-30s with dark brown hair in a clean shoulder-length cut with a soft wave, wearing thin wire-framed glasses, sharp and capable expression with a composed friendly smile. Wearing a tailored beige blazer over a white silk shell top, refined Korean professional style. Background is a modern Seoul accounting office with a dual-monitor setup and neatly organised document folders on shelving, softly blurred. Cool neutral office lighting with soft warm accents from a desk lamp, contemporary and clean. Shot on a Sony A7IV with an 85mm f/1.4 lens, shallow depth of field, eyes in sharp focus behind glasses with realistic lens refraction. Natural Korean skin texture, no airbrushing, realistic detail around eyes and jawline. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "kevin_driscoll",
+    "name": "Kevin Driscoll",
+    "filename": "kevin_driscoll.png",
+    "prompt": "Photorealistic headshot of an American man in his mid-40s with short receding sandy brown hair and a clean-shaven face, broad friendly face with a straightforward no-frills expression and a slight easygoing smile. Wearing a light blue short-sleeve dress shirt with a pen clipped to the breast pocket, practical office worker look. Background is a busy Florida insurance office with stacked manila folders and a desktop computer on a cluttered desk, softly blurred. Bright warm fluorescent office lighting mixed with strong Florida sunlight bleeding through vinyl blinds, slightly washed-out and warm typical of a southern US office. Shot on a Sony A7III with an 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes. Natural American skin texture, slightly sun-reddened complexion, visible pores and forehead creases, no smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "amanda_chen",
+    "name": "Amanda Chen",
+    "filename": "amanda_chen.png",
+    "prompt": "Photorealistic headshot of an Asian-American woman in her early 30s with long dark hair loosely draped over one shoulder, minimal makeup with a natural Pacific Northwest look, warm creative smile with a relaxed confident energy. Wearing a forest green utility jacket over a simple black scoop-neck top, layered casual Portland style. Background is a cosy Portland home studio with camera gear on shelving, a lightbox, and prints hanging from clips on a wire, softly out of focus. Soft overcast Pacific Northwest daylight filtering through a large window, cool grey-green tones with warm tungsten accent from a small lamp, moody and artistic. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens, creamy bokeh, sharp focus on face. Natural skin texture with realistic detail, no airbrushing, authentic and candid feel. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  },
+  {
+    "id": "marcus_jefferson",
+    "name": "Marcus Jefferson",
+    "filename": "marcus_jefferson.png",
+    "prompt": "Photorealistic headshot of a Black American man in his late 40s with a closely cropped fade haircut and neatly trimmed goatee with flecks of grey, warm authoritative presence with a genuine welcoming smile. Wearing a burgundy quarter-zip sweater over a white collared shirt, polished but approachable educator look. Background is an American high school administrative office with a bookshelf of binders, framed diplomas on the wall, and a small American flag on the desk, softly blurred. Warm interior overhead lighting mixed with daylight from a window with half-open blinds, typical American school office ambience. Shot on a Canon R5 with an 85mm f/1.2 lens, shallow depth of field, crisp focus on eyes. Natural dark skin texture with realistic detail, visible smile lines, no airbrushing or smoothing. 4K resolution, 1:1 square crop. No text, no watermark, no distortions."
+  }
+]
